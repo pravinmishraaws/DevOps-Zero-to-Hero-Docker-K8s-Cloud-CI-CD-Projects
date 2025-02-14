@@ -73,5 +73,4 @@ Each lecture has **detailed documentation**, including **theory, hands-on practi
 - **Ask in Udemy's Q&A section**  
 - **Open an issue in this repository**  
 
-🚀 **Happy Learning & Keep Practicing!** 🚀  
-# DevOps-Zero-to-Hero-Docker-K8s-Cloud-CI-CD-Projects
+🚀 **Happy Learning & Keep Practicing!** 🚀 
